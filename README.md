@@ -1,7 +1,13 @@
 ![About](about.bmp)
+### Authors 
+- Ayesha Binte Mostofa (1805062)
+- Md. Sayeed Hasan Ovi (1805065)
+- Akibur Rahman (1805086)
 
-
-# AngryBird
+### Supervisor
+ - Md. Saiful Islam, Assistant Professor, CSE, BUET
+---
+# I_ANGRY_BIRD
 
 <p align="center">
   <img src="start.gif" alt="start">
@@ -11,16 +17,6 @@ I_ANGRY_BIRD is an exciting and creative game inspired by the famous Angry Birds
 
 ### Description
 The nomenclature of this game is such because it is made using a predefined header file named IGRAPHICS and it is inspired by Angry Bird game. The game has 3 subsequent levels . the main storyline of the game is the pig at first steal the egg of the birds and the birds become very angry. They went on hunting the pigs and the pigs take shelter under their so called construction. The aim of the game is to destroy the construction of the pigs and recover the egg from the pigs. The gamer will play as an angry bird and and when he clear the last stage then and only then he is the winner.The high score will done only when the gamer can complete the full game playing in a single span. That is the high score will not be valid if gamer fails at any level.
-
----
-
-### Authors 
-- Ayesha Binte Mostofa (1805062)
-- Md. Sayeed Hasan Ovi (1805065)
-- Akibur Rahman (1805086)
-
-### Supervisor
- - Md. Saiful Islam, Assistant Professor, CSE, BUET
 
 ---
 <p align="center">
@@ -79,4 +75,5 @@ The nomenclature of this game is such because it is made using a predefined head
 - Contains all initialization codes for starting the game.
 
 ##### Additional Notes
-Due to the substantial number of BMP files required for the animation, these files have not been included in the GitHub repository. To provide a demonstration, two GIFs above have been added as examples.
+- Due to the substantial number of BMP files required for the animation, these files have not been included in the GitHub repository. To provide a demonstration, two GIFs above have been added as examples.
+- Move everything from "Assets" Folder to "../Assets" (Where the code "iGraphics" is) Folder to run the code without error. 
