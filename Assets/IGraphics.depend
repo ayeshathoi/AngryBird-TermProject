@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1564824533 source:f:\study\igraphics-master\pratice.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1562602444 f:\study\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\study\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\study\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1564855588 source:f:\study\igraphics-master\tower of hanoi graphics.cpp
+	<stdio.h>
+	"iGraphics.h"
+	"gl.h"
+
+1562602445 f:\study\igraphics-master\opengl\include\gl.h
+
+1565598004 source:f:\study\igraphics-master\ibird.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1567368946 source:f:\study\igraphics-master\term project\ibird.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1562602444 f:\study\igraphics-master\term project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\study\igraphics-master\term project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\study\igraphics-master\term project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1566636726 source:f:\study\igraphics-master\term project\mim er project.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+
+1562602445 f:\study\igraphics-master\term project\opengl\include\gl.h
+
+1567490167 source:f:\study\igraphics-master\term project mine\ibird.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1562602444 f:\study\igraphics-master\term project mine\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\study\igraphics-master\term project mine\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\study\igraphics-master\term project mine\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567530015 source:f:\study\igraphics-master\term project mine\version 1.0-1.9\ibird v1.0.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1562602444 f:\study\igraphics-master\term project mine\version 1.0-1.9\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\study\igraphics-master\term project mine\version 1.0-1.9\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\study\igraphics-master\term project mine\version 1.0-1.9\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568394444 source:f:\study\igraphics-master\term project mine\version 1.0-1.9\ibird v2.0-2.9.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1567711376 source:f:\study\igraphics-master\term project mine\version 1.0-1.9\ibird v1.0-1.9.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1568394444 source:f:\iangrybird\ibird v2.0-2.9.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1562602444 f:\iangrybird\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562602445 f:\iangrybird\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562602445 f:\iangrybird\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
