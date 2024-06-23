@@ -1,6 +1,12 @@
 ![About](about.bmp)
+### Authors 
+- Ayesha Binte Mostofa (1805062)
+- Md. Sayeed Hasan Ovi (1805065)
+- Akibur Rahman (1805086)
 
-
+### Supervisor
+ - Md. Saiful Islam, Assistant Professor, CSE, BUET
+---
 # AngryBird
 
 <p align="center">
@@ -11,16 +17,6 @@ I_ANGRY_BIRD is an exciting and creative game inspired by the famous Angry Birds
 
 ### Description
 The nomenclature of this game is such because it is made using a predefined header file named IGRAPHICS and it is inspired by Angry Bird game. The game has 3 subsequent levels . the main storyline of the game is the pig at first steal the egg of the birds and the birds become very angry. They went on hunting the pigs and the pigs take shelter under their so called construction. The aim of the game is to destroy the construction of the pigs and recover the egg from the pigs. The gamer will play as an angry bird and and when he clear the last stage then and only then he is the winner.The high score will done only when the gamer can complete the full game playing in a single span. That is the high score will not be valid if gamer fails at any level.
-
----
-
-### Authors 
-- Ayesha Binte Mostofa (1805062)
-- Md. Sayeed Hasan Ovi (1805065)
-- Akibur Rahman (1805086)
-
-### Supervisor
- - Md. Saiful Islam, Assistant Professor, CSE, BUET
 
 ---
 <p align="center">
