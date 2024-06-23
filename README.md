@@ -7,7 +7,7 @@
 ### Supervisor
  - Md. Saiful Islam, Assistant Professor, CSE, BUET
 ---
-# AngryBird
+# I_ANGRY_BIRD
 
 <p align="center">
   <img src="start.gif" alt="start">
