@@ -79,4 +79,5 @@ The nomenclature of this game is such because it is made using a predefined head
 - Contains all initialization codes for starting the game.
 
 ##### Additional Notes
-Due to the substantial number of BMP files required for the animation, these files have not been included in the GitHub repository. To provide a demonstration, two GIFs above have been added as examples.
+- Due to the substantial number of BMP files required for the animation, these files have not been included in the GitHub repository. To provide a demonstration, two GIFs above have been added as examples.
+- Move everything from "Asset" Folder to "../Asset" (Where the code "iGraphics" is) Folder to run the code without error. 
